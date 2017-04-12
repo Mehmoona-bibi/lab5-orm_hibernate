@@ -3,7 +3,7 @@ import javax.persistence.*;
 
 @Entity
 @Table(name = "actor")
-public class Actor {
+public class City {
 	@Id
 	@Column(name = "actor_id")
 	int id;
